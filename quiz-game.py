@@ -1,4 +1,4 @@
-
+#answer the full form.
 print("Welcome to the game of quiz!")
 
 playing = input("Do you want to move forward/play? ")
